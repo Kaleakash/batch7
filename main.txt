@@ -1,4 +1,0 @@
-This is a main file created by Akash
-Hi Students 
-Akash Here
-Teaching DevOps concept
